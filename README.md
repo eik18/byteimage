@@ -22,8 +22,8 @@ The picture is produced by converting each byte into its integer value based on 
 ###How to read the entropy value
 Entropy in this context means how much information is "hidden" within the file.  As file entropy goes up, the odds that it is encrypted or compressed also rises.  
 
-Entropy of a single number set: 0.0
-Entropy of a random number set 3.30007131282
+- Entropy of a single number set: 0.0
+- Entropy of a random number set 3.30007131282
 Entropy of a no repeat number set 3.28717801941
 Entropy of this README.md file: 2.2247664431
 Entropy of BASH executable: 3.0486649882
