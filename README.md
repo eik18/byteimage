@@ -24,10 +24,10 @@ Entropy in this context means how much information is "hidden" within the file. 
 
 - Entropy of a single number set: 0.0
 - Entropy of a random number set 3.30007131282
-Entropy of a no repeat number set 3.28717801941
-Entropy of this README.md file: 2.2247664431
-Entropy of BASH executable: 3.0486649882
-Entropy of BASH executeable compressed with zip: 3.287974854
-Entropy of BASH executable compressed with GZ: 3.28834155203
-Entropy of Bash executable encrypted with GPG AES 2048: 3.28658408149
+- Entropy of a no repeat number set 3.28717801941
+- Entropy of this README.md file: 2.2247664431
+- Entropy of BASH executable: 3.0486649882
+- Entropy of BASH executeable compressed with zip: 3.287974854
+- Entropy of BASH executable compressed with GZ: 3.28834155203
+- Entropy of Bash executable encrypted with GPG AES 2048: 3.28658408149
 
