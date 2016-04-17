@@ -13,7 +13,7 @@ Options:
 	-h --help This screen.
 	--version Version
 """
-import Image, ImageColor, ImageDraw
+from PIL import Image, ImageColor, ImageDraw
 from scipy import stats
 from docopt import docopt 
 import math
